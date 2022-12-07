@@ -1,0 +1,15 @@
+GitHub - tzutalin/labelImg: 🖍️ LabelImg is a graphical image annotation tool and label object bounding boxes in images
+
+https://github.com/tzutalin/labelImg
+
+Supervisely - Web platform for computer vision. Annotation, training and deploy
+
+https://supervise.ly/
+
+LinkedAI - Image Labeling Platform - Annotation Service
+
+https://linkedai.co/
+
+LinkedAI - Free labelling platform - YouTube
+
+https://www.youtube.com/watch?v=y8i4zH68zNY
